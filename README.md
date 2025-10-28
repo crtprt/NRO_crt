@@ -1,3 +1,3 @@
 # NRO_crt
-Črt Arko
+Črt Arko\n
 23231187
