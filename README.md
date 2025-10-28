@@ -1,2 +1,3 @@
 # NRO_crt
-Črt Arko 23231187
+Črt Arko
+23231187
